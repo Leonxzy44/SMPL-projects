@@ -21,4 +21,6 @@ def run_tests(num_tests=5):
     winsound.Beep(1000, 500)  # Beep at 1000 Hz for 500 ms
 if __name__ == "__main__":
     run_tests()
+
+#At the end, you can see how much time your procesor needed to caption the sound.
     
