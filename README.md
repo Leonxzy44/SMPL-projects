@@ -8,7 +8,7 @@ Contact me with mail or 𝗗𝗠 me on discord and i will add you.
 
 - leon.hodzic@outlook.com
 
-- Discord: 'lilcoder'  
+- Discord: `lilcoder` 
   
 
 ---
